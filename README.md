@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Hi, I'm contrueCT <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=22&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
@@ -10,9 +10,11 @@
 
 🌱 I’m currently learning Java Backend and exploring microservices architecture.
 
-🗄️ I’m researching the HugeGraph graph database, focusing on its architecture.
+🗄️ I’m researching the HugeGraph graph database and the Higress, focusing on their architecture.
 
-🤖 I’m also diving into agent development, focus on bulid a, and learning about MCP and AI agents to enhance intelligent development workflows.
+🤖 I’m diving into AI agent development, focus on building AI agents with personality evolution, and learning about MCP and AI agents to enhance intelligent development workflows.
+
+🤖 I’m also developing autonomous AI systems, such as the MiraMate series for long-running intelligent agents.
 
 ## My Interests
 
