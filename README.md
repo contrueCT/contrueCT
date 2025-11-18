@@ -4,7 +4,7 @@
 
 ## About Me
 
-#### <Your Title, e.g., AI & Full-Stack Developer>
+#### AI & Full-Stack Developer
 
 📖 I’m currently a second-year student at Guangdong University of Technology.
 
@@ -25,4 +25,4 @@
 
 <!-- Add more badges -->
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=<contrueCT>&bg_color=ffffff&color=9e4c98&line=9992f7&point=1e6794&area=true&hide_border=true)](https://github.com/<contrueCT>/<contrueCT>)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=contrueCT&bg_color=ffffff&color=9e4c98&line=9992f7&point=1e6794&area=true&hide_border=true)]([https://github.com/<contrueCT>/<contrueCT>](https://github.com/ashutosh00710/github-readme-activity-graph))
