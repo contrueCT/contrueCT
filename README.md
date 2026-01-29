@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning Java Backend and exploring microservices architecture.
 
-🗄️ I’m researching the HugeGraph graph database and the Higress, focusing on their architecture.
+🗄️ I’m researching the Seata and the Higress, focusing on their architecture.
 
 🤖 I’m diving into AI agent development, focus on building AI agents with personality evolution, and learning about MCP and AI agents to enhance intelligent development workflows.
 
