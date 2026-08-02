@@ -6,13 +6,13 @@
 
 #### AI & Full-Stack Developer
 
-📖 I’m currently a second-year student at Guangdong University of Technology.
+📖 I’m currently a second-year student major in Software Engineering.
 
 🌱 I’m currently learning Java Backend and exploring microservices architecture.
 
-🗄️ I’m researching the Seata, Hugegraph and Higress, focusing on their architecture.
+🗄️ I’m researching the Seata, Hugegraph, focusing on their architecture.
 
-🤖 I’m diving into AI agent development, focus on building AI agents with personality evolution, and learning about MCP and AI agents to enhance intelligent development workflows.
+🤖 I’m diving into AI agent development, focus on building AI agents with personality evolution, and learning about skills and AI harness to enhance intelligent development workflows.
 
 🤖 I’m also developing autonomous AI systems, such as the MiraMate series for long-running intelligent agents.
 
