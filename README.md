@@ -6,7 +6,7 @@
 
 #### AI & Full-Stack Developer
 
-📖 I’m currently a second-year student major in Software Engineering.
+📖 I’m currently a third-year student major in Software Engineering.
 
 🌱 I’m currently learning Java Backend and exploring microservices architecture.
 
