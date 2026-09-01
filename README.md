@@ -27,4 +27,4 @@
 
 <!-- Add more badges -->
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=contrueCT&bg_color=ffffff&color=9e4c98&line=9992f7&point=1e6794&area=true&hide_border=true)]([https://github.com/<contrueCT>/<contrueCT>](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=contrueCT&theme=default&bg_color=ffffff&title_color=9e4c98&text_color=9e4c98&chart_color=9992f7&border_color=ffffff&animation=draw)](https://github.com/contrueCT)
